@@ -7,8 +7,10 @@ surf_intrepid             |  surf_skyworld
 ![](https://github.com/CombatSurfCS2/surf_intrepid/assets/102309602/b5e7407d-cace-4612-8e0d-85825255c9fe) <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3074951067"> steam </a> / <a href="https://github.com/CombatSurfCS2/surf_intrepid"> source </a>  |  ![](https://github.com/CombatSurfCS2/.github/assets/102309602/a7b2777e-7161-4328-875e-a4e5aaab8297) <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3074431892"> steam </a> / <a href="https://github.com/CombatSurfCS2/surf_skyworld"> source </a> 
 surf_japan [ IN DEVELOP ] |  surf_sarca [ IN DEVELOP ]
 ![](https://github.com/CombatSurfCS2/surf_japan/assets/142919074/5eaf33d8-5e57-40ca-a098-50b506b9d103) <a href="https://github.com/CombatSurfCS2/surf_japan"> source </a> | ![](https://github.com/CombatSurfCS2/.github/assets/102309602/1a175f21-cdd5-4ba4-ba32-80aa6350bb90)  <a href="https://github.com/CombatSurfCS2/surf_sarca"> source </a>
-surf_castle [ IN DEVELOP ]             | surf_ski_2 [ IN DEVELOP ]
-![](https://github.com/CombatSurfCS2/.github/assets/102309602/4d4585c9-3078-4e50-ab80-6c4125ffc84e)  <a href="https://github.com/CombatSurfCS2/surf_castle"> source </a> | ![](https://github.com/CombatSurfCS2/.github/assets/102309602/de496cb7-2520-4070-b042-08f8b9a5c55c)  <a href="https://github.com/CombatSurfCS2/surf_ski_2"> source </a>
+surf_castle [ IN DEVELOP ]             | surf_ski_2
+![](https://github.com/CombatSurfCS2/.github/assets/102309602/4d4585c9-3078-4e50-ab80-6c4125ffc84e)  <a href="https://github.com/CombatSurfCS2/surf_castle"> source </a> | ![](https://github.com/CombatSurfCS2/.github/assets/102309602/984049ad-5e73-4ddf-bfa0-6cd192bf62f5)  <a href="https://github.com/CombatSurfCS2/surf_ski_2"> source </a>
+surf_4fun [ IN DEVELOP ]             | 
+![](https://github.com/CombatSurfCS2/.github/assets/102309602/298a864d-eeb8-409f-a9f8-6da1cef9c172)  <a href="https://github.com/CombatSurfCS2/surf_4fun"> source </a> | 
 
 <!-- 
 <hr />
@@ -20,4 +22,3 @@ awp_relict             | -
 :-------------------------:|:-------------------------:
 ![](https://github.com/CombatSurfCS2/.github/assets/102309602/7fbafb21-61a8-40f8-bb4c-c62f6b993686) <a href="https://raw.githubusercontent.com/CombatSurfCS2/awp_relict"> source </a> | -
 -->
-
