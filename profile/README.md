@@ -10,7 +10,7 @@ surf_japan [ IN DEVELOP ] |  surf_sarca [ IN DEVELOP ]
 surf_castle [ IN DEVELOP ]             | surf_ski_2
 ![](https://github.com/CombatSurfCS2/.github/assets/102309602/4d4585c9-3078-4e50-ab80-6c4125ffc84e)  <a href="https://github.com/CombatSurfCS2/surf_castle"> source </a> | ![](https://github.com/CombatSurfCS2/.github/assets/102309602/984049ad-5e73-4ddf-bfa0-6cd192bf62f5) <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3078344461"> steam </a> / <a href="https://github.com/CombatSurfCS2/surf_ski_2"> source </a>
 surf_4fun             | surf_skyscraper
-![](https://github.com/CombatSurfCS2/.github/assets/102309602/00117c49-fb64-45b4-a41a-1ce4254ed716) <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3082920092"> steam </a> / <a href="https://github.com/CombatSurfCS2/surf_4fun"> source </a> | ![](https://github.com/CombatSurfCS2/.github/assets/102309602/6be9638d-ca57-42d3-8a7d-6bc8db503c3f) <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3083410686"> steam </a> / <a href="https://github.com/CombatSurfCS2/surf_skyscraper"> source </a> | 
+![](https://github.com/CombatSurfCS2/.github/assets/102309602/00117c49-fb64-45b4-a41a-1ce4254ed716) <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3082920092"> steam </a> / <a href="https://github.com/CombatSurfCS2/surf_4fun"> source </a> | ![](https://github.com/CombatSurfCS2/.github/assets/102309602/961783fb-156d-4c38-bf98-23bc5b52d372) <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3084059372"> steam </a> / <a href="https://github.com/CombatSurfCS2/surf_skyscraper"> source </a> | 
 
 <!-- 
 <hr />
